@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cajames-git
+- 👋 Hi, I’m <em><strong>@cajames-git</strong></em>
 - 👀 I’m interested in ... Web/Software Development, Graphic Design, Game Dev. & Design, etc.
 - 🌱 I’m currently learning ... how to code and make applications to solve problems.
 - 💞️ I’m looking to collaborate on ... any project that will aid in attaining new skills and knowledge.
